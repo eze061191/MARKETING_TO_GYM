@@ -13,7 +13,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shapiro-85-Super-Heavy-Extd';
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -21,7 +21,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shapiro-45-Welter-Extd';
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -29,7 +29,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shapiro-45-Welter-Extd';
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -584,7 +584,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shapiro-45-Welter-Extd';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -598,7 +598,7 @@ a:hover {
   border-color: #ffffff !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Shapiro-45-Welter-Extd';
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -687,7 +687,7 @@ a {
   width: 0;
   position: absolute;
   left: 1rem;
-  color: #ffffff;
+  color: #43ff48;
   top: 0.5rem;
   margin-right: 0.5rem;
   line-height: 1;
@@ -726,7 +726,7 @@ a {
     left: 0;
     right: 100%;
     bottom: -0.2em;
-    background: #ffffff;
+    background: #43ff48;
     height: 3px;
     -webkit-transition-property: right;
     transition-property: right;
@@ -1080,7 +1080,7 @@ a {
 .cid-tAlgWjL6nM {
   padding-top: 240px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/pexels-andrea-piacquadio-3768916-2000x1333.webp");
+  background-image: url("../../../assets/images/banner-1-1920x1080.webp");
 }
 .cid-tAlgWjL6nM .mbr-iconfont2 {
   color: #43ff48;
@@ -1211,6 +1211,19 @@ a {
   background-color: #ff9966;
   margin-bottom: 2rem;
   display: inline-block;
+}
+.cid-tAlgWjL6nM .block-title,
+.cid-tAlgWjL6nM .mbr-section-title,
+.cid-tAlgWjL6nM .line,
+.cid-tAlgWjL6nM .mbr-section-btn {
+  color: #43ff48;
+}
+.cid-tAlgWjL6nM H3 {
+  color: #ffffff;
+}
+.cid-tAlgWjL6nM .mbr-maintext,
+.cid-tAlgWjL6nM .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-tAnQtruGXH {
   padding-top: 0rem;
