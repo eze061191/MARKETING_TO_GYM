@@ -1741,6 +1741,7 @@ a {
 }
 .cid-tAnSZLf6rx .mbr-text {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tAnSZLf6rx .pt-0 {
   padding-top: 0 !important;
@@ -1807,7 +1808,7 @@ a {
   content: "";
 }
 .cid-tAnSZLf6rx .modal-content {
-  background: #ffffff;
+  background: #1b1b1b;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -1866,7 +1867,7 @@ a {
   opacity: .75;
 }
 .cid-tAnSZLf6rx .modal-header .close svg {
-  fill: #353535;
+  fill: #43ff48;
 }
 .cid-tAnSZLf6rx .modal-header .close:hover {
   opacity: 1;
@@ -1879,6 +1880,7 @@ a {
   width: 100%;
   margin: 0;
   text-align: center;
+  color: #ffffff;
 }
 .cid-tAnSZLf6rx .modal-body {
   position: relative;
@@ -1994,4 +1996,7 @@ a {
 }
 .cid-tAnSZLf6rx .mbr-section-btn .btn {
   margin: 0;
+}
+.cid-tAnSZLf6rx LABEL {
+  color: #ffffff;
 }
