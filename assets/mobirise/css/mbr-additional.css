@@ -1711,12 +1711,12 @@ a {
 .cid-tAvTc54cp8 .navbar {
   min-height: 77px;
   transition: all 0.3s;
-  background: #1b1b1b;
+  background: #000000;
   background: none;
 }
 .cid-tAvTc54cp8 .navbar.opened {
   transition: all 0.3s;
-  background: #1b1b1b !important;
+  background: #000000 !important;
 }
 .cid-tAvTc54cp8 .navbar .dropdown-item {
   padding: 0.235rem 1.5rem;
@@ -1818,7 +1818,7 @@ a {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-short {
-  background: #1b1b1b !important;
+  background: #000000 !important;
   min-height: 60px;
   opacity: 0.9;
 }
@@ -1887,7 +1887,7 @@ a {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #1b1b1b;
+  background: #000000;
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2182,14 +2182,16 @@ a {
 .cid-tAlgWjL6nM .mbr-text,
 .cid-tAlgWjL6nM .link {
   color: #000000;
+  text-align: left;
 }
 .cid-tAlgWjL6nM .card-title,
 .cid-tAlgWjL6nM .card-img {
   color: #000000;
+  text-align: center;
 }
 .cid-tAnQtruGXH {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #fbfbfb;
 }
 .cid-tAnQtruGXH .mbr-fallback-image.disabled {
@@ -2440,7 +2442,7 @@ a {
 .cid-tApi0I8x7B .card_title,
 .cid-tApi0I8x7B .icon_block {
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
 .cid-tAq3RJO2PK {
   padding-top: 6rem;
@@ -2599,7 +2601,7 @@ a {
 .cid-tAqj0QWsM5 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #1b1b1b;
+  background-color: #000000;
 }
 .cid-tAqj0QWsM5 .mbr-fallback-image.disabled {
   display: none;
@@ -2788,7 +2790,7 @@ a {
   content: "";
 }
 .cid-tAnSZLf6rx .modal-content {
-  background: #1b1b1b;
+  background: #000000;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -4006,12 +4008,12 @@ blockquote {
 .cid-tAvTc54cp8 .navbar {
   min-height: 77px;
   transition: all 0.3s;
-  background: #1b1b1b;
+  background: #000000;
   background: none;
 }
 .cid-tAvTc54cp8 .navbar.opened {
   transition: all 0.3s;
-  background: #1b1b1b !important;
+  background: #000000 !important;
 }
 .cid-tAvTc54cp8 .navbar .dropdown-item {
   padding: 0.235rem 1.5rem;
@@ -4113,7 +4115,7 @@ blockquote {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-short {
-  background: #1b1b1b !important;
+  background: #000000 !important;
   min-height: 60px;
   opacity: 0.9;
 }
@@ -4182,7 +4184,7 @@ blockquote {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #1b1b1b;
+  background: #000000;
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -4577,7 +4579,7 @@ blockquote {
 .cid-tAqj0QWsM5 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #1b1b1b;
+  background-color: #000000;
 }
 .cid-tAqj0QWsM5 .mbr-fallback-image.disabled {
   display: none;
@@ -4766,7 +4768,7 @@ blockquote {
   content: "";
 }
 .cid-tAAN0F0sax .modal-content {
-  background: #1b1b1b;
+  background: #000000;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
@@ -5984,12 +5986,12 @@ blockquote {
 .cid-tAvTc54cp8 .navbar {
   min-height: 77px;
   transition: all 0.3s;
-  background: #1b1b1b;
+  background: #000000;
   background: none;
 }
 .cid-tAvTc54cp8 .navbar.opened {
   transition: all 0.3s;
-  background: #1b1b1b !important;
+  background: #000000 !important;
 }
 .cid-tAvTc54cp8 .navbar .dropdown-item {
   padding: 0.235rem 1.5rem;
@@ -6091,7 +6093,7 @@ blockquote {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-short {
-  background: #1b1b1b !important;
+  background: #000000 !important;
   min-height: 60px;
   opacity: 0.9;
 }
@@ -6160,7 +6162,7 @@ blockquote {
   }
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #1b1b1b;
+  background: #000000;
 }
 .cid-tAvTc54cp8 .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -6705,7 +6707,7 @@ blockquote {
 .cid-tAqj0QWsM5 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #1b1b1b;
+  background-color: #000000;
 }
 .cid-tAqj0QWsM5 .mbr-fallback-image.disabled {
   display: none;
@@ -6894,7 +6896,7 @@ blockquote {
   content: "";
 }
 .cid-tB2oPiMWPx .modal-content {
-  background: #1b1b1b;
+  background: #000000;
   position: relative;
   display: flex;
   -ms-flex-direction: column;
