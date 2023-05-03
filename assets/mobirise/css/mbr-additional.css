@@ -1005,11 +1005,11 @@ body {
 }
 .display-7 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.625rem;
+  font-size: 1.25rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -1043,9 +1043,9 @@ body {
     line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.04rem;
-    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2488,6 +2488,7 @@ a {
 }
 .cid-tAq3RJO2PK H3 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tAq3RJO2PK .user_name {
   color: #bbbbbb;
@@ -4359,11 +4360,6 @@ blockquote {
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
-}
-@media (max-width: 991px) {
-  .cid-tAAJiLHYFO .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
-  }
 }
 .cid-tAAJiLHYFO .item-wrapper:hover .item-content {
   opacity: 1;
@@ -8457,22 +8453,10 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
-.cid-tBqZ2LZwuu {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tBqZ2LZwuu .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tBqZ2LZwuu .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tBqchCBiF5 .mbr-text,
+.cid-tBqchCBiF5 .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-tBALUhbBZV {
   padding-top: 4rem;
@@ -8519,6 +8503,7 @@ blockquote {
 .cid-tBALUhbBZV .card-title,
 .cid-tBALUhbBZV .card-box {
   color: #000000;
+  text-align: center;
 }
 .cid-tBALUhbBZV .main-title,
 .cid-tBALUhbBZV .title-col {
@@ -8527,6 +8512,7 @@ blockquote {
 }
 .cid-tBALUhbBZV .card-text {
   color: #353535;
+  text-align: center;
 }
 .cid-tBALUhbBZV .mbr-fallback-image.disabled {
   display: none;
@@ -8904,7 +8890,7 @@ blockquote {
 .cid-tClzca5rm8 .mbr-text,
 .cid-tClzca5rm8 .mbr-section-btn {
   text-align: center;
-  color: #17003b;
+  color: #000000;
 }
 .cid-tClzca5rm8 .item-title {
   text-align: center;
@@ -10346,7 +10332,7 @@ blockquote {
   }
 }
 .cid-tClUrUIUy3 {
-  background-image: url("../../../assets/images/pexels-cliff-booth-4056723-2000x1335.webp");
+  background-image: url("../../../assets/images/diseo-sin-ttulo-2-1366x768.webp");
 }
 .cid-tClUrUIUy3 .mbr-fallback-image.disabled {
   display: none;
@@ -10364,22 +10350,10 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
-.cid-tClUrVtiQq {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tClUrVtiQq .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tClUrVtiQq .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tClUrUIUy3 .mbr-text,
+.cid-tClUrUIUy3 .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-tClUrWdw59 {
   padding-top: 4rem;
@@ -10426,6 +10400,7 @@ blockquote {
 .cid-tClUrWdw59 .card-title,
 .cid-tClUrWdw59 .card-box {
   color: #000000;
+  text-align: center;
 }
 .cid-tClUrWdw59 .main-title,
 .cid-tClUrWdw59 .title-col {
@@ -10434,6 +10409,7 @@ blockquote {
 }
 .cid-tClUrWdw59 .card-text {
   color: #353535;
+  text-align: center;
 }
 .cid-tClUrWdw59 .mbr-fallback-image.disabled {
   display: none;
@@ -10811,7 +10787,7 @@ blockquote {
 .cid-tClUs2WYBD .mbr-text,
 .cid-tClUs2WYBD .mbr-section-btn {
   text-align: center;
-  color: #17003b;
+  color: #000000;
 }
 .cid-tClUs2WYBD .item-title {
   text-align: center;
@@ -12253,7 +12229,7 @@ blockquote {
   }
 }
 .cid-tCmgl0Cyc7 {
-  background-image: url("../../../assets/images/pexels-cliff-booth-4056723-2000x1335.webp");
+  background-image: url("../../../assets/images/diseo-sin-ttulo-1-1366x768.webp");
 }
 .cid-tCmgl0Cyc7 .mbr-fallback-image.disabled {
   display: none;
@@ -12271,22 +12247,10 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
-.cid-tCmgl1lYpL {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tCmgl1lYpL .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tCmgl1lYpL .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tCmgl0Cyc7 .mbr-text,
+.cid-tCmgl0Cyc7 .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-tCmgl220rP {
   padding-top: 4rem;
@@ -12333,6 +12297,7 @@ blockquote {
 .cid-tCmgl220rP .card-title,
 .cid-tCmgl220rP .card-box {
   color: #000000;
+  text-align: center;
 }
 .cid-tCmgl220rP .main-title,
 .cid-tCmgl220rP .title-col {
@@ -12340,7 +12305,8 @@ blockquote {
   color: #000000;
 }
 .cid-tCmgl220rP .card-text {
-  color: #353535;
+  color: #000000;
+  text-align: center;
 }
 .cid-tCmgl220rP .mbr-fallback-image.disabled {
   display: none;
@@ -12357,7 +12323,7 @@ blockquote {
 .cid-tCmkn6BhIS {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background4.webp");
+  background-image: url("../../../assets/images/top-consejos-para-alinear-el-equipo-de-marketing-y-el-equipo-de-ventas-800x400.webp");
 }
 .cid-tCmkn6BhIS .mbr-iconfont {
   font-size: 50px;
@@ -12625,6 +12591,7 @@ blockquote {
 }
 .cid-tCmlaootN7 H3 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-tCmlaootN7 .user_name {
   color: #bbbbbb;
@@ -12714,7 +12681,7 @@ blockquote {
 .cid-tCmgl5sZtw .mbr-text,
 .cid-tCmgl5sZtw .mbr-section-btn {
   text-align: center;
-  color: #17003b;
+  color: #000000;
 }
 .cid-tCmgl5sZtw .item-title {
   text-align: center;
@@ -14156,7 +14123,7 @@ blockquote {
   }
 }
 .cid-tCmlFJaI8M {
-  background-image: url("../../../assets/images/pexels-cliff-booth-4056723-2000x1335.webp");
+  background-image: url("../../../assets/images/diseo-sin-ttulo-1366x768.webp");
 }
 .cid-tCmlFJaI8M .mbr-fallback-image.disabled {
   display: none;
@@ -14174,22 +14141,10 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
-.cid-tCmlFKWUlo {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tCmlFKWUlo .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tCmlFKWUlo .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tCmlFJaI8M .mbr-text,
+.cid-tCmlFJaI8M .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-tCmmelYCYw {
   padding-top: 2rem;
@@ -14200,23 +14155,6 @@ blockquote {
   display: none;
 }
 .cid-tCmmelYCYw .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tCmmuR9xVb {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tCmmuR9xVb .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tCmmuR9xVb .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -14589,7 +14527,7 @@ blockquote {
 .cid-tCmlFOL5Hf .mbr-text,
 .cid-tCmlFOL5Hf .mbr-section-btn {
   text-align: center;
-  color: #17003b;
+  color: #000000;
 }
 .cid-tCmlFOL5Hf .item-title {
   text-align: center;
@@ -16334,7 +16272,7 @@ blockquote {
   }
 }
 .cid-tCmA1gZoxi {
-  background-image: url("../../../assets/images/pexels-cliff-booth-4056723-2000x1335.webp");
+  background-image: url("../../../assets/images/disenadora-grafica-logos-ordenador-2000x1349.webp");
 }
 .cid-tCmA1gZoxi .mbr-fallback-image.disabled {
   display: none;
@@ -16352,22 +16290,10 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
-.cid-tCmA1i2Q2U {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-tCmA1i2Q2U .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tCmA1i2Q2U .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-tCmA1gZoxi .mbr-text,
+.cid-tCmA1gZoxi .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-tCmAI7WXaC {
   padding-top: 4rem;
@@ -16414,6 +16340,7 @@ blockquote {
 .cid-tCmAI7WXaC .card-title,
 .cid-tCmAI7WXaC .card-box {
   color: #000000;
+  text-align: center;
 }
 .cid-tCmAI7WXaC .main-title,
 .cid-tCmAI7WXaC .title-col {
@@ -16799,7 +16726,7 @@ blockquote {
 .cid-tCmA1n9F7O .mbr-text,
 .cid-tCmA1n9F7O .mbr-section-btn {
   text-align: center;
-  color: #17003b;
+  color: #000000;
 }
 .cid-tCmA1n9F7O .item-title {
   text-align: center;
@@ -18259,6 +18186,11 @@ blockquote {
   text-align: center;
   color: #ffffff;
 }
+.cid-tCmFWGFJpA .mbr-text,
+.cid-tCmFWGFJpA .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-tCmN1ymvDQ {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -18335,6 +18267,7 @@ blockquote {
   text-align: center;
   color: #000000;
   margin-bottom: 0.7rem;
+  margin-bottom: 1.5rem;
 }
 .cid-tCmN1ymvDQ .mbr-section-subtitle {
   text-align: left;
@@ -19773,7 +19706,7 @@ blockquote {
   }
 }
 .cid-tCmUM7mqHR {
-  background-image: url("../../../assets/images/pexels-scott-webb-136404-2000x1328.webp");
+  background-image: url("../../../assets/images/fitness-10-26-web.webp");
 }
 .cid-tCmUM7mqHR .mbr-fallback-image.disabled {
   display: none;
@@ -23382,6 +23315,9 @@ blockquote {
   position: absolute;
   top: 0;
 }
+.cid-tCnezTBCgK .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-tCnezUuTeP {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -24812,6 +24748,11 @@ blockquote {
 }
 .cid-tCnfTJgVIT .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-tCnfTJgVIT .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-tCnfTJgVIT .navbar.collapsed .dropdown-menu {
   background: transparent !important;
